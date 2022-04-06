@@ -1,0 +1,23 @@
+*** LET CONST VAR ***
+
+  let variable can be changed 
+  ex: 
+  let age = 30;
+  age = 31;
+  
+  CALLED MUTATING VARIABLE
+  
+*** CONST ***
+  value that can not be changed in the future
+  an immutalbe variable, a variable that can not be mutated with later code
+  cannot declare 'empty' const variables
+  use const when you don't expect the variable to change
+  let can introduce bugs by allowing the variable to change to something else
+    
+*** VAR ***
+  old way of defining variables, mostly avoided now
+  prior to es6
+  let is block scoped
+  var is function scoped
+  
+  
