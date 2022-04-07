@@ -21,3 +21,27 @@
   var is function scoped
   
   
+
+
+ 
+  *** BASIC OPERATORS ***
+  
+    an operator allows us to transform / combine values
+    
+    catagories
+      mathamatical
+      comparison
+      logical
+      assignment
+      ...others
+      
+      *mathmatical
+        
+      *concatinate
+      console.log(firstName + lastName);
+      yields JonasSchmedtmann
+      console.log(firstName + ' ' + lastName);
+      yeilds Jonas Schemdtmann
+  
+      *assignment 
+      
